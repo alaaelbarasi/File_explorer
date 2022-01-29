@@ -1,0 +1,9 @@
+c:\users\dell\documents\visual studio 2013\Projects\file_explorer\file_explorer\bin\Debug\file_explorer.exe.config
+C:\Users\dell\documents\visual studio 2013\Projects\file_explorer\file_explorer\bin\Debug\file_explorer.exe
+C:\Users\dell\documents\visual studio 2013\Projects\file_explorer\file_explorer\bin\Debug\file_explorer.pdb
+C:\Users\dell\documents\visual studio 2013\Projects\file_explorer\file_explorer\obj\Debug\file_explorer.csprojResolveAssemblyReference.cache
+C:\Users\dell\documents\visual studio 2013\Projects\file_explorer\file_explorer\obj\Debug\file_explorer.Form1.resources
+C:\Users\dell\documents\visual studio 2013\Projects\file_explorer\file_explorer\obj\Debug\file_explorer.Properties.Resources.resources
+C:\Users\dell\documents\visual studio 2013\Projects\file_explorer\file_explorer\obj\Debug\file_explorer.csproj.GenerateResource.Cache
+C:\Users\dell\documents\visual studio 2013\Projects\file_explorer\file_explorer\obj\Debug\file_explorer.exe
+C:\Users\dell\documents\visual studio 2013\Projects\file_explorer\file_explorer\obj\Debug\file_explorer.pdb
